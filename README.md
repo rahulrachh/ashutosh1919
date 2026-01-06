@@ -4,4 +4,4 @@
 <br>
 
 ![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&count_private=true&cache=false)](https://github.com/ashutosh1919)
+[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&count_private=true&cache=true)](https://github.com/ashutosh1919)
